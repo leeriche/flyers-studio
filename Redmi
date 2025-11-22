@@ -1,0 +1,4 @@
+git clone https://github.com/leeriche/flyers-studio.git
+cd flyers-studio
+npm install
+npm run dev

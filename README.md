@@ -1,3 +1,6 @@
 # flyers-studio
 Application web pour créer des flyers avec drag-and-drop
-git@github.com:leeriche/flyers-studio.git
+git clone https://github.com/leeriche/flyers-studio.git
+cd flyers-studio
+npm install
+npm run dev
